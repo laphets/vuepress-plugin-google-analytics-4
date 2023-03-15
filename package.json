@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-plugin-google-analytics-4",
+  "version": "0.1.0",
+  "description": "google-analytics-4 plugin for vuepress",
+  "keywords": [
+    "documentation",
+    "generator",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "https://github.com/laphets/vuepress-plugin-google-analytics-4",
+  "bugs": {
+    "url": "https://github.com/laphets/vuepress-plugin-google-analytics-4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laphets/vuepress-plugin-google-analytics-4.git",
+    "directory": ""
+  },
+  "license": "MIT",
+  "author": "Wenqing Luo <wenqing4@illinois.edu>",
+  "main": "index.js",
+  "dependencies": {
+    "@vuepress/types": "1.9.9"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
