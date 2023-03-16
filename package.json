@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-google-analytics-4",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "google-analytics-4 plugin for vuepress",
   "keywords": [
     "documentation",
