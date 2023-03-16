@@ -7,7 +7,7 @@ This plugin is designed to add support for [Google Analytics 4](https://support.
 To install this plugin, simply add it to your VuePress project's dependencies:
 
 ```sh
-yarn add @vuepress-plugin-google-analytics-4
+yarn add vuepress-plugin-google-analytics-4
 # OR npm install vuepress-plugin-google-analytics-4
 ```
 
